@@ -32,6 +32,18 @@ comments: false
             </p>
           {% endif %}
 
+          {% if post.tags.size > 0 %}
+            <div class="ai-archive-tags">
+
+              {% for tag in post.tags %}
+                <span class="ai-archive-tag">
+                  {{ tag }}
+                </span>
+              {% endfor %}
+
+            </div>
+          {% endif %}
+
         </div>
 
       </article>
