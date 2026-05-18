@@ -1,0 +1,43 @@
+---
+title: Archive
+permalink: /archive/
+layout: page
+excerpt: All posts.
+comments: false
+---
+
+<div class="ai-archive-page">
+
+  <div class="ai-archive-list">
+
+    {% for post in site.posts %}
+
+      <article class="ai-archive-item">
+
+        <div class="ai-archive-date">
+          {{ post.date | date: "%b %d, %Y" }}
+        </div>
+
+        <div class="ai-archive-content">
+
+          <h2 class="ai-archive-title">
+            <a href="{{ post.url | relative_url }}">
+              {{ post.title }}
+            </a>
+          </h2>
+
+          {% if post.description %}
+            <p class="ai-archive-description">
+              {{ post.description }}
+            </p>
+          {% endif %}
+
+        </div>
+
+      </article>
+
+    {% endfor %}
+
+  </div>
+
+</div>

@@ -1,0 +1,69 @@
+.ai-archive-page {
+  max-width: 760px;
+
+  margin: 0 auto;
+}
+
+.ai-archive-list {
+  margin-top: 3rem;
+}
+
+.ai-archive-item {
+  margin-bottom: 3.5rem;
+}
+
+.ai-archive-date {
+  display: block;
+
+  color: #888;
+
+  font-size: 0.9rem;
+
+  margin-bottom: 0.1rem;
+
+  font-family: 'JetBrains Mono', monospace;
+}
+
+.ai-archive-title {
+  margin-top: 0 !important;
+
+  margin-bottom: 0;
+
+  font-size: 1.6rem;
+
+  line-height: 1.3;
+
+  font-weight: 600;
+}
+
+.ai-archive-title a {
+  text-decoration: none;
+
+  transition: opacity 0.2s ease;
+}
+
+.ai-archive-title a:hover {
+  opacity: 0.7;
+}
+
+.ai-archive-description {
+  margin-top: 0.75rem;
+
+  color: #999;
+
+  line-height: 1.8;
+
+  font-size: 1rem;
+}
+
+@media (max-width: 768px) {
+
+  .ai-archive-page {
+    padding: 0 1rem;
+  }
+
+  .ai-archive-title {
+    font-size: 1.3rem;
+  }
+
+}
