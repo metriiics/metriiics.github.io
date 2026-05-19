@@ -46,7 +46,7 @@ description: Краткие заметки по работе с LangChain аге
 MCP (Model Context Protocol) — это стандарт с открытым исходным кодом для подключения ИИ-приложений к внешним системам.
 
 <figure>
-<img src="/mcp-langchain-agents/image-mcp.png" alt="фы">
+<img src="image-mcp.png" alt="фы">
 <figcaption>Рис. 2. </figcaption>
 </figure>
 
