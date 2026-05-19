@@ -19,7 +19,7 @@ description: Краткие заметки по работе с LangChain аге
 Агенты объединяют языковые модели с инструментами для создания систем, которые могут анализировать задачи.
 
 <figure>
-<img src="imageG.png" alt="фы" />
+<img src="/mcp-langchain-agents/imageG.png" alt="фы" />
 <figcaption>Рис. 1. </figcaption>
 </figure>
 
@@ -46,7 +46,7 @@ description: Краткие заметки по работе с LangChain аге
 MCP (Model Context Protocol) — это стандарт с открытым исходным кодом для подключения ИИ-приложений к внешним системам.
 
 <figure>
-<img src="image-mcp.png" alt="фы" />
+<img src="/mcp-langchain-agents/image-mcp.png" alt="фы" />
 <figcaption>Рис. 2. </figcaption>
 </figure>
 
@@ -58,7 +58,7 @@ MCP использует клиент-серверную архитектуру,
 - MCP Server: программа, предоставляющая контекст клиентам MCP.
 
 <figure>
-<img src="imageasd.png" alt="фы" />
+<img src="/mcp-langchain-agents/imageasd.png" alt="фы" />
 <figcaption>Рис. 3. </figcaption>
 </figure>
 
