@@ -53,13 +53,13 @@ MCP (Model Context Protocol) — это стандарт с открытым и�
 </figure>
 
 <figure>
-<img src="image-mcp.png" alt="фы" />
-<figcaption>Рис. 2. </figcaption>
+<img src="/_posts/mcp-langchain-agents/image-mcp.png" alt="фы" />
+<figcaption>Рис. 3. </figcaption>
 </figure>
 
 <img src="image-mcp.png" alt="фы" />
 
-<img src="/mcp-langchain-agents/image-mcp.png" alt="фы" />
+<img src="/_posts/mcp-langchain-agents/image-mcp.png" alt="фы" />
 
 <figure>
 <img src="/assets/img/image-mcp.png" alt="фы">
