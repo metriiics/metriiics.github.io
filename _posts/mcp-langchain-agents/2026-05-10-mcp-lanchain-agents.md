@@ -19,7 +19,7 @@ description: Краткие заметки по работе с LangChain аге
 Агенты объединяют языковые модели с инструментами для создания систем, которые могут анализировать задачи.
 
 <figure>
-<img src="/mcp-langchain-agents/imageG.png" alt="фы">
+<img src="/assets/img/mcp-langchain-agents/imageG.png" alt="фы">
 <figcaption>Рис. 1. </figcaption>
 </figure>
 
@@ -48,21 +48,7 @@ MCP (Model Context Protocol) — это стандарт с открытым и�
 ![](image-mcp.png)
 
 <figure>
-<img src="image-mcp.png" alt="фы">
-<figcaption>Рис. 2. </figcaption>
-</figure>
-
-<figure>
-<img src="/_posts/mcp-langchain-agents/image-mcp.png" alt="фы" />
-<figcaption>Рис. 3. </figcaption>
-</figure>
-
-<img src="image-mcp.png" alt="фы" />
-
-<img src="/_posts/mcp-langchain-agents/image-mcp.png" alt="фы" />
-
-<figure>
-<img src="/assets/img/image-mcp.png" alt="фы">
+<img src="/assets/img/mcp-langchain-agents/image-mcp.png" alt="фы" >
 <figcaption>Рис. 2. </figcaption>
 </figure>
 
@@ -74,10 +60,9 @@ MCP использует клиент-серверную архитектуру,
 - MCP Server: программа, предоставляющая контекст клиентам MCP.
 
 <figure>
-<img src="/mcp-langchain-agents/imageasd.png" alt="фы">
+<img src="/assets/img/mcp-langchain-agents/imageasd.png" alt="фы" >
 <figcaption>Рис. 3. </figcaption>
 </figure>
-
 
 ## MCP состоит из двух слоев
 
