@@ -27,16 +27,21 @@ usemathjax: true
 
 Косинусное сходство(Cosine Similarity) измеряет угол между двумя векторами в многомерном пространстве.
 
+{% highlight markdown %}
+usemathjax: true
+{% endhighlight %}
+
 $$
-\text{similarity} =  \frac{A \cdot B}{||A|| ||B||} = \frac{\sum^n_{i=1} A_i \times B_i}{\sqrt{\sum^n_{i=1}(A_i)^2} \times \sqrt{\sum^n_{i=1}(B_i)^2}}
+\begin{align*}
+\text{similarity} &=  \frac{A \cdot B}{||A|| ||B||} \\
+&= \frac{\sum^n_{i=1} A_i \times B_i}{\sqrt{\sum^n_{i=1}(A_i)^2} \times \sqrt{\sum^n_{i=1}(B_i)^2}}
+\end{align*}
 $$
 
 Где: 
-<ul>
-  <li>\(A \cdot B\) — скалярное произведение (dot product)</li>
-  <li>\(\lVert A \rVert\) — евклидова норма вектора A</li>
-  <li>\(\lVert B \rVert\) — евклидова норма вектора B</li>
-</ul>
+- \\( A \cdot B \\) — скалярное произведение (dot product)
+- \\( \rVert A \lVert \\) — евклидова норма вектора A
+- \\( \rVert B \lVert \\) — евклидова норма вектора B
 
 <figure>
 <img src="/assets/img/words-vectorize/img3.png" alt="фы">
