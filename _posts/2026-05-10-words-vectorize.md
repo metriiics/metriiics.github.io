@@ -9,7 +9,7 @@ usemathjax: true
 
 
 <figure>
-<img src="/words-vectorize/img1.png" alt="фы">
+<img src="/assets/img/words-vectorize/img1.png" alt="фы">
 <figcaption>Рис. 1. Представление персон в векторах </figcaption>
 </figure>
 
@@ -21,7 +21,7 @@ usemathjax: true
 Теперь подробнее разберем, что такое косинусово сходство.
 
 <figure>
-<img src="/words-vectorize/img2.png" alt="фы">
+<img src="/assets/img/words-vectorize/img2.png" alt="фы">
 <figcaption>Рис. 2. Косинуво сходство</figcaption>
 </figure>
 
@@ -39,7 +39,7 @@ $$
 </ul>
 
 <figure>
-<img src="/words-vectorize/img3.png" alt="фы">
+<img src="/assets/img/words-vectorize/img3.png" alt="фы">
 <figcaption>Рис. 3. Матрица косинусова сходства</figcaption>
 </figure>
 
@@ -51,7 +51,7 @@ $$
 - -1 = противоположные направления
 
 <figure>
-<img src="/words-vectorize/img4.png" alt="фы">
+<img src="/assets/img/words-vectorize/img4.png" alt="фы">
 <figcaption>Рис. 4. Матрица сходства для нас(me)</figcaption>
 </figure>
 
@@ -70,7 +70,7 @@ $$
 Слова объясняют любую нагрузку
 
 <figure>
-<img src="/words-vectorize/img5.png" alt="фы">
+<img src="/assets/img/words-vectorize/img5.png" alt="фы">
 <figcaption>Рис. 5. Матрица слова №1 </figcaption>
 </figure>
 
@@ -81,7 +81,7 @@ $$
 Но перейдем к более популярному примеру индустрии
 
 <figure>
-<img src="/words-vectorize/img6.png" alt="фы">
+<img src="/assets/img/words-vectorize/img6.png" alt="фы">
 <figcaption>Рис. 6. Матрица слов №2 </figcaption>
 </figure>
 
