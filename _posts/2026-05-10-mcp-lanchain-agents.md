@@ -98,5 +98,5 @@ MCP также определяет примитивы, которые могу�
 
 #### Источники
 
-- [MCP-Docs](https://modelcontextprotocol.io/docs/getting-started/intro)
-- [LangChain-Docs](https://docs.langchain.com/)
+1. [MCP-Docs](https://modelcontextprotocol.io/docs/getting-started/intro)
+2. [LangChain-Docs](https://docs.langchain.com/)
