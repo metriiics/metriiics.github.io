@@ -231,7 +231,7 @@ $$
 
 Эти соединения играют решающую роль в сохранении градиентов во время прохождения сигнала назад при обучении нейронной сети.
 <figure>
-<img src="/assets/img/transformer2/addition" alt="Визуализация блока Add & Normalize">
+<img src="/assets/img/transformer2/addition.png" alt="Визуализация блока Add & Normalize">
 <figcaption>Рис. 14. Пример без/с residual connetction</figcaption>
 </figure>
 
